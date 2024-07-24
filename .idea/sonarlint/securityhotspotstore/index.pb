@@ -23,3 +23,9 @@ KTokoSpringCommon/src/main/java/com/tokospring/common/entity/BaseEntity.java,3\
 aTokoSpringWebParent/TokoSpringBackend/src/main/java/com/tokospring/admin/user/RoleRepository.java,8\2\82eacf0a996dc1564bbbc205e3993b44c7e9a1fa
 –
 fTokoSpringWebParent/TokoSpringBackend/src/test/java/com.tokospring.admin.user/RoleRepositoryTests.java,2\f\2fe56786bc983b0487f324c373764735e0422226
+u
+ETokoSpringCommon/src/main/java/com/tokospring/common/entity/User.java,8\8\886052c7963dd16eddd48cd7043090dd52358d2c
+–
+fTokoSpringWebParent/TokoSpringBackend/src/test/java/com.tokospring.admin.user/UserRepositoryTests.java,8\3\83d1ef9582f747801f3b3562cefea455bf34c127
+‘
+aTokoSpringWebParent/TokoSpringBackend/src/test/java/com.tokospring.admin.user/UserRepository.java,c\2\c2a39dc591119d556a99c4300926e028abe41ca2

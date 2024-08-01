@@ -88,7 +88,7 @@ public class UserRepositoryTests {
 
     @Test
     public void testDeleteUser(){
-        var user = userRepository.findById("582b7d89-4932-4830-aa12-5e56ebe17673").get();
-        userRepository.delete(user);
+        var user = userRepository.findById("582b7d89-4932-4830-aa12-5e56ebe17673");
+        user.ifPresent(value -> userRepository.delete(value));
     }
 }

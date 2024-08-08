@@ -23,6 +23,11 @@ public class UserService {
     }
 
     public void save(User user) {
-        userRepository.save(user);
+       userRepository.save(user);
+    }
+
+    public boolean isEmailUnique(String email){
+        var user = userRepository.findByEmail(email);
+        return user == null;
     }
 }

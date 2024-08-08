@@ -1,5 +1,5 @@
 
 
-java:S1128">Remove this unused import 'com.tokospring.common.entity.Role'.(ÇÿçÜ8ĞÔÉ2J$b05f7da2-6607-40e0-9da0-65bc1f1646bf
+java:S1128">Remove this unused import 'com.tokospring.common.entity.Role'.(ÇÿçÜ8 ãˆ“2J$5ab760f9-e52c-4ad4-bf02-5e5c55168256
 •
-java:S1128"RRemove this unused import 'org.springframework.data.jpa.repository.JpaRepository'.(À™‡“8Ã·‘É2J$9291346a-b71a-46a5-bc70-dca0b0ec55fe
+java:S1128"RRemove this unused import 'org.springframework.data.jpa.repository.JpaRepository'.(À™‡“8 ãˆ“2J$57a1b2ef-9b50-4d22-bd44-570902e6dc8f

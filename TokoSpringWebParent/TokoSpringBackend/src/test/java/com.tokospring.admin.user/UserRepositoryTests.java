@@ -91,4 +91,11 @@ public class UserRepositoryTests {
         var user = userRepository.findById("582b7d89-4932-4830-aa12-5e56ebe17673");
         user.ifPresent(value -> userRepository.delete(value));
     }
+
+    @Test
+    public void testGetUserByMail(){
+        var email = "thirduser@gmail.com";
+        var user = userRepository.findByEmail(email);
+        assertThat(user).isNotNull();
+    }
 }
